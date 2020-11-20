@@ -1,0 +1,33 @@
+
+img{
+    width:100% ;
+    height: 250px;
+  
+}
+section h2 ,section p{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+section h2 {
+    height: 55px;
+}
+section p {
+    height: 75px;
+    overflow-y: auto;
+}
+
+#buttons{
+    padding-top: 20px;
+      margin-left: 24%;
+}
+button{
+      background-color: rgba(4, 8, 243, 0.836);
+      padding: 5px;
+      margin: 5px;
+      border-radius: 4px;
+      width: 150px;
+      color: white;
+}  
+
+
